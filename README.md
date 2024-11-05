@@ -3,7 +3,7 @@
 > A cyberpunk-themed tech platform exploring the future of web development.
 > 
 
-[https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net](https://img.shields.io/website?url=https://www.cyphertux.net)
+![https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net](https://img.shields.io/website?url=https://www.cyphertux.net)
 
 ![https://img.shields.io/badge/license-MIT-blue.svg](https://img.shields.io/badge/license-MIT-blue.svg)
 
