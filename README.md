@@ -3,9 +3,7 @@
 > A cyberpunk-themed tech platform exploring the future of web development.
 > 
 
-[https://img.shields.io/github/last-commit/cyphertux/cyphertux](https://img.shields.io/github/last-commit/cyphertux/cyphertux)
-
-[https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net](https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net)
+[https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net](https://img.shields.io/website?url=https://www.cyphertux.net)
 
 ![https://img.shields.io/badge/license-MIT-blue.svg](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -16,7 +14,7 @@ Hey! I'm Maxime, a passionate full-stack developer and cybersecurity enthusiast.
 - 🔭 Currently working on: CypherTux OS platform
 - 🌱 Learning: Advanced Next.js patterns & Web Security
 - 💬 Ask me about: Next.js, TypeScript, Web Security
-- 📫 Reach me: [LinkedIn](https://www.notion.so/cyphertux/your-linkedin) | [Twitter](https://www.notion.so/cyphertux/your-twitter)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/evrardmaxime/) | [Twitter](https://twitter.com/Cyphertux)
 
 ## 🚀 Project Overview
 
@@ -49,7 +47,7 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 - 🎨 Styles personnalisés pour les tableaux avec thème arcade
 - 📱 Design responsive optimisé
 
-[View full changelog](https://www.notion.so/CypherTux-OS-13551c0dce6c801dbf23ea808b56bb39?pvs=21)
+[View full changelog](https://www.cyphertux.net)
 
 ## 🔐 Security
 
@@ -73,7 +71,7 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 ## 📜 Changelog
 
-[Detailed version history](https://www.notion.so/CypherTux-OS-13551c0dce6c801dbf23ea808b56bb39?pvs=21)
+[Detailed version history](https://www.cyphertux.net)
 
 ### v1.2.x
 
