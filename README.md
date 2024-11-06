@@ -41,8 +41,6 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 ## 📈 Project Evolution
 
-### Latest Release (v1.3.0)
-
 [View full changelog](https://www.cyphertux.net)
 
 ## 🔐 Security
@@ -58,12 +56,6 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 - **FCP**: < 1s
 - **TTI**: Optimized
 - **CLS**: 0
-
-## 🗺 Roadmap
-
-- [ ]  Enhanced Console Animations
-- [ ]  Asset Optimization
-- [ ]  Advanced Analytics Integration
 
 ## 📜 Changelog
 
