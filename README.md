@@ -43,10 +43,6 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 ### Latest Release (v1.3.0)
 
-- ✨ Support complet des tableaux MDX avec remark-gfm
-- 🎨 Styles personnalisés pour les tableaux avec thème arcade
-- 📱 Design responsive optimisé
-
 [View full changelog](https://www.cyphertux.net)
 
 ## 🔐 Security
@@ -71,7 +67,12 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 ## 📜 Changelog
 
-[Detailed version history](https://www.cyphertux.net)
+### v1.8.0
+- 📝 Ajout de l'article Webflow vers Next.js 
+- 🔄 Optimisation de la pagination des articles
+- 🤘 Synchronisation améliorée entre URL et état
+- 🎯 Fix du problème de double-clic sur la pagination
+- ❤️ Meilleure expérience utilisateur
 
 ### v1.7.0
 - 🎨 Mise à jour des favicons
