@@ -74,20 +74,20 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 [Detailed version history](https://www.cyphertux.net)
 
 ### v1.7.0
-🎨 Mise à jour des favicons
-🗑️ Suppression du favicon Vercel par défaut
-📱 Support multi-devices pour les favicons
-⚙️ Configuration metadata optimisée
+- 🎨 Mise à jour des favicons
+- 🗑️ Suppression du favicon Vercel par défaut
+- 📱 Support multi-devices pour les favicons
+- ⚙️ Configuration metadata optimisée
 
 ### v1.6.0
-🖼️ Intégration de Cloudinary
-📸 Ajout des images de couverture pour les articles
-🔍 Amélioration des meta tags pour le SEO
-📱 Optimisation des images responsive
+- 🖼️ Intégration de Cloudinary
+- 📸 Ajout des images de couverture pour les articles
+- 🔍 Amélioration des meta tags pour le SEO
+- 📱 Optimisation des images responsive
 
 ### v1.5.0 → v1.5.1
-🔧 Fix du sitemap avec l'ajout du sous-domaine www
-🌐 URLs mises à jour pour utiliser www.cyphertux.net
+- 🔧 Fix du sitemap avec l'ajout du sous-domaine www
+- 🌐 URLs mises à jour pour utiliser www.cyphertux.net
 
 ### v1.4.0 (Latest)
 - ✨ Amélioration du système de pagination des articles
