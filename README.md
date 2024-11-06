@@ -73,17 +73,44 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 [Detailed version history](https://www.cyphertux.net)
 
-### v1.2.x
+### v1.7.0
+🎨 Mise à jour des favicons
+🗑️ Suppression du favicon Vercel par défaut
+📱 Support multi-devices pour les favicons
+⚙️ Configuration metadata optimisée
 
-- 🖼️ Cloudinary MDX Integration
-- 🔒 CSP Configuration
-- 🎯 Image Performance Optimization
+### v1.6.0
+🖼️ Intégration de Cloudinary
+📸 Ajout des images de couverture pour les articles
+🔍 Amélioration des meta tags pour le SEO
+📱 Optimisation des images responsive
+
+### v1.5.0 → v1.5.1
+🔧 Fix du sitemap avec l'ajout du sous-domaine www
+🌐 URLs mises à jour pour utiliser www.cyphertux.net
+
+### v1.4.0 (Latest)
+- ✨ Amélioration du système de pagination des articles
+- 🔍 Filtrage intelligent des articles draft
+- 🎯 Optimisation de la navigation client/serveur
+- 🏗️ Refactoring des composants articles
+
+### v1.3.0 
+- ✨ Support complet des tableaux MDX avec remark-gfm
+- 🎨 Styles personnalisés pour les tableaux avec thème arcade
+- 📱 Design responsive optimisé
+
+### v1.2.x
+- 🖼️ Intégration Cloudinary pour les images MDX
+- 🔒 Configuration CSP pour Cloudinary
+- 🎯 Optimisation des performances images
 
 ### v1.1.x
-
-- 📊 GA4 Integration
-- 🏷️ GTM Setup
-- ⚡ Analytics Optimization
+- 📊 Intégration Google Analytics (GA4)
+- 🏷️ Google Tag Manager
+- 🔒 Mise à jour CSP pour analytics
+- ⚡ Optimisation du chargement analytics
+- 🎨 Nouveau favicon personnalisé
 
 ## 📄 License
 
