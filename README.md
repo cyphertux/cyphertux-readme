@@ -82,7 +82,7 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 - 🔧 Fix du sitemap avec l'ajout du sous-domaine www
 - 🌐 URLs mises à jour pour utiliser www.cyphertux.net
 
-### v1.4.0 (Latest)
+### v1.4.0
 - ✨ Amélioration du système de pagination des articles
 - 🔍 Filtrage intelligent des articles draft
 - 🎯 Optimisation de la navigation client/serveur
