@@ -59,6 +59,45 @@ CypherTux OS is more than just a website - it's a platform that demonstrates mod
 
 ## 📜 Changelog
 
+### v1.11.0
+🌍 Internationalisation complète du site
+- Support multilingue pour les articles (FR/EN)
+- Système de switch de langue intuitif
+- Structure i18n optimisée pour le SEO
+- Redirections intelligentes pour la rétrocompatibilité
+
+🎨 Optimisation des assets
+- Nouveaux formats de favicons (16x16 à 192x192)
+- Support amélioré pour tous les devices
+- Configuration metadata enrichie
+- Optimisation pour Google Search
+
+🔧 Améliorations techniques
+- Gestion des erreurs pour les articles
+- Pages de loading pour une meilleure UX
+- Configuration TypeScript optimisée
+- Structure MDX multilingue
+
+### v1.10.1
+🎯 Fix du système de filtrage
+- Correction du double-clic sur les catégories
+- Amélioration de la réactivité des filtres
+- Optimisation de l'expérience utilisateur
+
+### v1.10.0
+✨ Système de filtrage des articles
+- Filtrage par catégories
+- Interface utilisateur intuitive
+- Navigation fluide entre les catégories
+- Performance optimisée du filtrage
+
+### v1.9.0
+🤖 Optimisation SEO
+- Ajout du fichier robots.ts
+- Configuration SEO avancée
+- Amélioration du référencement
+- Structure optimisée pour les moteurs de recherche
+
 ### v1.8.0
 - 📝 Ajout de l'article Webflow vers Next.js 
 - 🔄 Optimisation de la pagination des articles
