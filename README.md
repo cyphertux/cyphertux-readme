@@ -1,11 +1,16 @@
+<div align="center">
+  
 # 🌐 CypherTux OS
 
-> A cyberpunk-themed tech platform exploring the future of web development.
-> 
+[![Version](https://img.shields.io/badge/version-1.25.0-brightgreen.svg)](https://github.com/cyphertux/cyphertux)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/website?url=https://www.cyphertux.net)](https://www.cyphertux.net)
 
-![https://img.shields.io/website?url=https%3A%2F%2Fcyphertux.net](https://img.shields.io/website?url=https://www.cyphertux.net)
+<h3>A cyberpunk-themed tech platform for the future</h3>
 
-![https://img.shields.io/badge/license-MIT-blue.svg](https://img.shields.io/badge/license-MIT-blue.svg)
+[Site Web](https://www.cyphertux.net) · [Report Bug](https://github.com/cyphertux/cyphertux/issues)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -14,140 +19,203 @@ Hey! I'm Maxime, a passionate full-stack developer and cybersecurity enthusiast.
 - 🔭 Currently working on: CypherTux OS platform
 - 🌱 Learning: Advanced Next.js patterns & Web Security
 - 💬 Ask me about: Next.js, TypeScript, Web Security
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/evrardmaxime/) | [Twitter](https://twitter.com/Cyphertux)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/super-computer/) | [Twitter](https://twitter.com/Cyphertux)
 
-## 🚀 Project Overview
+## ✨ Features
 
-CypherTux OS is more than just a website - it's a platform that demonstrates modern web development practices with a cyberpunk twist.
+<table>
+<tr>
+<td>
 
-### Key Features
+- 🚀 **Modern Stack**: Next.js 14, TypeScript, TailwindCSS
+- 📝 **MDX Blog**: Advanced blogging system
+- 🎮 **Interactive UI**: Cyberpunk-themed components
+- 📊 **Analytics**: Google Analytics integration
+- 🔍 **SEO**: Fully optimized for search engines
+- 🌍 **i18n**: Multilingual support (FR/EN)
 
-- 🎮 Cyberpunk-themed UI/UX
-- 📱 Responsive design
-- 🔒 Enterprise-grade security
-- 📊 Analytics integration
-- 🖼️ Optimized image handling
-- 📝 MDX-powered blog system
+</td>
+<td>
 
-## 🛠 Tech Stack
+- 🖼️ **Cloudinary**: Optimized image delivery
+- 🔒 **Security**: Robust CSP configuration
+- 📱 **Responsive**: Mobile-first design
+- ⚡ **Performance**: Lighthouse score 100
+- 🎨 **Theme**: Cyberpunk aesthetic
+- 🔄 **CI/CD**: Automated deployments
 
-- **Framework**: Next.js 14
-- **Language**: TypeScript
-- **Styling**: TailwindCSS
-- **Content**: MDX
-- **Analytics**: Google Tag Manager
-- **Images**: Cloudinary
-- **Deployment**: Vercel
+</td>
+</tr>
+</table>
 
-## 📈 Project Evolution
+## 🛠️ Tech Stack
 
-[View full changelog](https://www.cyphertux.net)
+<div align="center">
 
-## 🔐 Security
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)](https://mdxjs.com/)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://analytics.google.com/)
 
-- CSP Implementation
-- Asset Security
-- Route Protection
-- Regular Security Audits
+</div>
 
-## 📊 Performance
+## 📈 Project Metrics
 
-- **Lighthouse Score**: 100%
-- **FCP**: < 1s
-- **TTI**: Optimized
-- **CLS**: 0
+- **Performance**: 100/100 Lighthouse score
+- **Security**: Enterprise-grade CSP implementation
+- **SEO**: Fully optimized meta tags and sitemap
+- **Accessibility**: WCAG 2.1 compliant
 
-## 📜 Changelog
+## 🚀 Latest Updates
 
-### v1.11.0
-🌍 Internationalisation complète du site
-- Support multilingue pour les articles (FR/EN)
-- Système de switch de langue intuitif
-- Structure i18n optimisée pour le SEO
-- Redirections intelligentes pour la rétrocompatibilité
+### v1.25.0 (Latest)
+- ✨ Add ARTICLES section to main navigation
+- 🔗 Fix tokenomics research URLs
 
-🎨 Optimisation des assets
-- Nouveaux formats de favicons (16x16 à 192x192)
-- Support amélioré pour tous les devices
-- Configuration metadata enrichie
-- Optimisation pour Google Search
+### v1.24.x
+- ⚡ Optimize loading performance
+- 🖼️ Optimize latest articles images
+- 📱 Improve mobile LCP
+- 🎨 Add font-display: swap
+- 🔧 Reduce image dimensions
 
-🔧 Améliorations techniques
-- Gestion des erreurs pour les articles
-- Pages de loading pour une meilleure UX
-- Configuration TypeScript optimisée
-- Structure MDX multilingue
+<details>
+<summary>View Full Changelog</summary>
 
-### v1.10.1
-🎯 Fix du système de filtrage
-- Correction du double-clic sur les catégories
-- Amélioration de la réactivité des filtres
-- Optimisation de l'expérience utilisateur
+### v1.23.0
+- 📝 Add Polkadot Web3 Challenges article (FR + EN)
 
-### v1.10.0
-✨ Système de filtrage des articles
-- Filtrage par catégories
-- Interface utilisateur intuitive
-- Navigation fluide entre les catégories
-- Performance optimisée du filtrage
+### v1.22.0
+- ➕ Add CryptoTux Raffle to projects section
+
+### v1.21.0
+- 📝 Add Polkadot Guide (Snowbridge, Bifrost, Hydration) in FR and EN
+
+### v1.20.0
+- 🔄 Update Polkadot articles
+- 🌐 Improve multilingual support
+
+### v1.19.0
+- 📝 Add JAM Polkadot Cloud Web3 article
+- 🔗 Add terminal link integration
+
+### v1.18.0
+- 🔗 Add JAM Polkadot Cloud Web3 link terminal (FR + EN)
+- 📝 Add JAM Polkadot Cloud Web3 article
+
+### v1.17.x
+- 📝 Add Web3 Raffle article (FR/EN)
+- 🔧 Fix article translations and links
+- 🌐 Update French content
+
+### v1.16.0
+- 🎨 Update learning grid layout
+- ➕ Add polkadot terminal card
+- 🔗 Add API and Appchain links to DEV section
+
+### v1.15.x
+- ⚡ Add Polkadot terminal with block number API
+- 📝 Add Polkadot Spammening articles (FR/EN)
+- 🎨 Enhance article links with neon effect
+- 🔧 Various link corrections and updates
+
+### v1.14.0
+- 📝 Add Kusama Spamening record article
+- 🌐 Add English versions of TPS articles
+
+### v1.13.0
+- 📝 Add blockchain TPS article (FR)
+- 🔧 Performance optimizations
+
+### v1.12.x
+- 📝 Add Remix AI Ethereum article (FR/EN)
+- 📝 Add mastering prompting techniques article
+
+### v1.11.x
+- 🔒 Improve SEO and security configurations
+- 🎨 Optimize header hierarchy
+- ⚡ Optimize GTM and GA loading
+- 🤖 Update robots.txt rules
+
+### v1.10.x
+- ✨ Add article category filters
+- 🎯 Fix category selection UX
+- 📱 Add mobile-friendly dropdown
 
 ### v1.9.0
-🤖 Optimisation SEO
-- Ajout du fichier robots.ts
-- Configuration SEO avancée
-- Amélioration du référencement
-- Structure optimisée pour les moteurs de recherche
+- 🤖 Add robots.ts for improved SEO
+- 🗺️ Configure sitemap integration
 
-### v1.8.0
-- 📝 Ajout de l'article Webflow vers Next.js 
-- 🔄 Optimisation de la pagination des articles
-- 🤘 Synchronisation améliorée entre URL et état
-- 🎯 Fix du problème de double-clic sur la pagination
-- ❤️ Meilleure expérience utilisateur
+### v1.8.x
+- 📝 Add Webflow to Next.js migration article
+- 🔄 Fix pagination synchronization
+- 📚 Update technical documentation
 
-### v1.7.0
-- 🎨 Mise à jour des favicons
-- 🗑️ Suppression du favicon Vercel par défaut
-- 📱 Support multi-devices pour les favicons
-- ⚙️ Configuration metadata optimisée
+### v1.7.x
+- 🎨 Update favicon system
+- 📱 Add multi-device icon support
+- ⚙️ Optimize metadata configuration
 
 ### v1.6.0
-- 🖼️ Intégration de Cloudinary
-- 📸 Ajout des images de couverture pour les articles
-- 🔍 Amélioration des meta tags pour le SEO
-- 📱 Optimisation des images responsive
+- 🖼️ Integrate Cloudinary
+- 🎯 Add meta tags optimization
+- 📱 Implement responsive images
 
-### v1.5.0 → v1.5.1
-- 🔧 Fix du sitemap avec l'ajout du sous-domaine www
-- 🌐 URLs mises à jour pour utiliser www.cyphertux.net
+### v1.5.x
+- 🔧 Fix sitemap with www subdomain
+- 🌐 Update URL structure
 
-### v1.4.0
-- ✨ Amélioration du système de pagination des articles
-- 🔍 Filtrage intelligent des articles draft
-- 🎯 Optimisation de la navigation client/serveur
-- 🏗️ Refactoring des composants articles
+### v1.4.x
+- ✨ Improve articles pagination
+- 🎯 Add draft articles filtering
+- ⚡ Optimize client/server rendering
 
-### v1.3.0 
-- ✨ Support complet des tableaux MDX avec remark-gfm
-- 🎨 Styles personnalisés pour les tableaux avec thème arcade
-- 📱 Design responsive optimisé
+### v1.3.x
+- 📊 Add table support with remark-gfm
+- 🎮 Add arcade theme to 404 page
+- 🎨 Implement custom table styles
 
 ### v1.2.x
-- 🖼️ Intégration Cloudinary pour les images MDX
-- 🔒 Configuration CSP pour Cloudinary
-- 🎯 Optimisation des performances images
+- 🖼️ Add Cloudinary for MDX images
+- 📝 Implement article system
+- 🔧 Fix filename handling
 
 ### v1.1.x
-- 📊 Intégration Google Analytics (GA4)
-- 🏷️ Google Tag Manager
-- 🔒 Mise à jour CSP pour analytics
-- ⚡ Optimisation du chargement analytics
-- 🎨 Nouveau favicon personnalisé
+- 📊 Add Google Analytics (GA4)
+- 🏷️ Integrate Google Tag Manager
+- 🔒 Configure CSP
+- ⚡ Optimize analytics loading
+
+### v1.0.0
+- 🚀 Initial release
+- 🎨 Basic cyberpunk theme
+- 📱 Responsive design foundation
+
+</details>
+
+## 🔐 Security Features
+
+- 🛡️ Content Security Policy (CSP)
+- 🔒 Asset Security Management
+- 🚫 Protected Routes
+- 📊 Security Monitoring
+
+## 🌍 Internationalization
+
+- 🌐 Multilingual Support (FR/EN)
+- 🔄 Language Switching
+- 📝 Localized Content
+- 🎯 SEO-optimized i18n
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.notion.so/cyphertux/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<p align="center">Made with ❤️ by CypherTux</p>
+<div align="center">
+  <p>Made with ❤️ by <a href="https://www.cyphertux.net">CypherTux</a></p>
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Cyphertux?style=social)](https://twitter.com/Cyphertux)
+</div>
